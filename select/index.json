@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Color Rise Harmony",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-13T12:06:52.658812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_Color_Rise_Harmony_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Color Rise Harmony",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_Color_Rise_Harmony_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
